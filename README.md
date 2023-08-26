@@ -19,17 +19,20 @@ This was done after the data has been satisfactorily cleanded and all outliers h
 The data was trainded using Logistic Regression, Decision Tree,
 Adaboost and Niave bayes algorithms. The outcome was compared with goverment model. Logistic Regression model performed best with the government model at 91.3%
 
-# RECOMMENDATIONS AFTER ANALYSIS
+# RECOMMENDATION AFTER ANALYSIS
 ❖ From my analysis, Metropolitan has high accident occurrence (17.82%), there will be
 need to implement road traffic rules particular for metropolitan.
+
 ❖ Surprisingly, 72.99% of accidents was recorded in single carriage way, hence, there
 will be need to revaluate traffic rules guiding single carriage ways, such as speed limit,
 bumps interval etc.
+
 ❖ From analysis, a high accident count was recorded for pedestrians at 8:00am, 4:00 pm,
 5:00 pm and peak at 3:00 pm. This may be due to movement of students to and from
 school. There will need to teach students at schools on importance to obey traffic rules.
 Also, traffic wardens should be deployed to pedestrian accident-prone locations at the
 peak hours of pedestrian accidents.
+
 ❖ For pedestrian, motorcycle and the accident record generally experienced high accident
 count, there will need to increase presence of traffic wardens to help monitor traffic on
 Fridays’

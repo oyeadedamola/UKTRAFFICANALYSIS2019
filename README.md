@@ -1,6 +1,6 @@
 # UK road accident analysis for 2019
 
-The goal of the project was to analyse road traffic and accident for the year 2029 in UK an provide possible solutions/changes to reduce the occurence of road accidents.
+The goal of the project was to analyse road traffic and accident for the year 2019 in UK an provide possible solutions/changes to reduce the occurence of road accidents.
 
 Methodology
 
